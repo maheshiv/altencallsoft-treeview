@@ -1,0 +1,19 @@
+ul li div {
+  padding: 0.5em 0.5em;
+  text-align: left;
+  display: list-item;
+  list-style-type: circle;
+}
+ul {
+  list-style-type: none;
+}
+ul.Node-desc {
+  padding-left: 0;
+}
+.Tree-node {
+  display: flex;
+  justify-content: center;
+}
+.No-res {
+  font-size: 2em;
+}

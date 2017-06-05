@@ -1,0 +1,22 @@
+.App-flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-flex-column {
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: #222;
+  height: 10em;
+  color: white;
+}
+
+.Tree-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: scroll;
+}
